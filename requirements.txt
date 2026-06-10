@@ -1,0 +1,10 @@
+atproto
+duckdb
+matplotlib
+nltk
+numpy
+pandas
+pyarrow
+ruptures
+seaborn
+statsmodels
